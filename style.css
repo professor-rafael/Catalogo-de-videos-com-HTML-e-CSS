@@ -60,5 +60,10 @@ p {
 }
 
 P {
+    text-align: center;
+    font-family: monospace;
+    font-size: 22px;
+    filter: drop-shadow(1px 1px 20px yellow);
+}
     
     
