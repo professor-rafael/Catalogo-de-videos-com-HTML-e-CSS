@@ -29,10 +29,6 @@ h1 {
     font-size: 40px;
 }
 
-p {
-    font-size: 20px;
-}
-
 .categoria-videos {
     display: flex;
     overflow-x: auto;
