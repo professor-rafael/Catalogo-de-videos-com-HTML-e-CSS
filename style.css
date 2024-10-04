@@ -118,4 +118,20 @@ ul {
   .example-2 .icon-content a[data-social="youtube"] ~ .tooltip {
     background-color: #ff0000;
   }
-  
+
+
+ @keyframes loop {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(5px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+h1 {
+    animation: loop 1s ease-in-out infinite;
+}
+
