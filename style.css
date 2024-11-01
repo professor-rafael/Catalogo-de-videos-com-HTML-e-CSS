@@ -11,11 +11,10 @@ body {
 h1, p{
     text-align: center;
     color: bisque;
-    border-bottom: solid 2px yellowgreen;
+    border-bottom: solid 2px rgb(6, 8, 0);
     padding: 20px;
     font-size: 32px;
-    box-shadow: 1px 1px 10px rgb(197, 71, 235);
-}
+    box-shadow: 1px 1px 10px rgb(92, 83, 95);
 
 
 
