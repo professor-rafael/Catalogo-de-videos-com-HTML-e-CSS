@@ -11,7 +11,7 @@ body {
 h1, p{
     text-align: center;
     color: bisque;
-    border-bottom: solid 2px rgb(6, 8, 0);
+    border-bottom: solid 2px rgb(231, 236, 220);
     padding: 20px;
     font-size: 32px;
     box-shadow: 1px 1px 10px rgb(92, 83, 95);
